@@ -26,4 +26,5 @@ public class StackTest {
 		String actual = stack.pop();
 		assertEquals(expected, actual);
 	}
+	
 }
